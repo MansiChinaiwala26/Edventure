@@ -1,0 +1,60 @@
+
+Date: 4
+From: nirali.pranami95@gmail.com
+To: 124jankipansuriya@gmail.com
+Subject: LastCheck
+Body: This program is for the send mail,validation of mail address and write the mail inside file...
+
+Date: 5
+From: nirali.pranami95@gmail.com
+To: 124jankipansuriya@gmail.com
+Subject: LastChecking
+Body: It will append the second mail...
+
+Date: 6
+From: nirali.pranami95@gmail.com
+To: 124jankipansuriya@gmail.com
+Subject: Hello
+Body: hiiii
+
+Date: 7
+From: nirali.pranami95@gmail.com
+To: rashiyabrijesh@gmail.com
+Subject: This is demostration oof over program.
+Body: In this program we include send mail,validation of mail address and also mantain the history of the all mail sent by the programmer..
+
+Date: 12
+From: nirali.pranami@gmail.com
+To: 124jankipansuriya@gmail.com
+Subject: Testing Program
+Body: This is a body section
+
+Date: 12
+From: nirali.pranami95@gmail.com
+To: 124jankipansuriya@gmail.com
+Subject: Testing Program
+Body: Nothing Thank you.
+
+Date: 21
+From: mansi_chinaiwala@yahoo.com
+To: nirali.pranami95@gmail.com
+Subject: test
+Body: retest
+
+Date: 21
+From: nirali.pranami95@gmail.com
+To: mansi_chinaiwala@yahoo.com
+Subject: test
+Body: retest
+
+Date: 21
+From: nirali.pranami95@gmail.com
+To: 124jankipansuriya@gmail.com
+Subject: test
+Body: retest
+
+Date: 25
+From: mansi_chinaiwala@yahoo.com
+To: mshaikh784@gmail.com
+Subject: hkbhfv
+Body: hbhf
